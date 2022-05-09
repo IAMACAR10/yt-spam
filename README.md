@@ -1,4 +1,4 @@
 # yt-spam
-Python script to automatically comment on people's videos. (PROBABLY WILL NOT WORK ON OTHER SYSTEMS DUE TO MONITOR RESOLUTIONS, WINDOWS SIZES, ETC.)
+Python script to automatically comment on people's videos. If it doesn't work on your resolution/web browser, please tell me, so I can fix it.
 
-Depends on pyautogui and python3
+**Depends on pyautogui and python3**
